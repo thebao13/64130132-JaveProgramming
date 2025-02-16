@@ -34,7 +34,7 @@ public class Detla {
 	            // Tính căn delta
 	            double canDelta = Math.sqrt(delta);
 
-	            // Xuất kết quả ra màn hình
+	            // in ra màn hình
 	            System.out.println("Giá trị của delta là: " + delta);
 	            System.out.println("Căn của delta là: " + canDelta);
 	        }
