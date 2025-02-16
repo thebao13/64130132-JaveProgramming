@@ -11,6 +11,8 @@ public class HoTen {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		//khai báo đối tượng 
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Nhập họ và tên sinh viên: ");
