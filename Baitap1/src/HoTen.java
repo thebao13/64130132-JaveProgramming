@@ -14,6 +14,7 @@ public class HoTen {
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Nhập họ và tên sinh viên: ");
+        
         String hoTen = scanner.nextLine();
 
       
